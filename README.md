@@ -11,6 +11,9 @@ ________________________________________________________________________________
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
+#### Frameworks:
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-6cc24a?style=for-the-badge&logo=robot-framework&logoColor=ffffff)
+
  <div>
   <a href="https://github.com/RafaelHilario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelHilario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
